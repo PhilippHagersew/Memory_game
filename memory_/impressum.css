@@ -1,0 +1,25 @@
+.Überschrift{
+    text-align: center;
+    padding: 3vw;
+    background-color: grey;
+}
+.text1{
+    text-align:center;
+}
+.über2{
+    text-align: center;
+  
+
+    
+}
+
+.flex-container {
+    display: flex;
+    background-color:grey;
+}
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 18px;
+}
